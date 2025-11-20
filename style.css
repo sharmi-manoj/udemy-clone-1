@@ -13,6 +13,7 @@ body{
     border-bottom: solid black 1px;
     gap: 10px;
     align-items: center;
+    position: sticky;
 }
 .navbar__s1__title{
     color:#A435F0;
